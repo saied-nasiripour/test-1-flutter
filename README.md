@@ -1,10 +1,9 @@
 # first_task
 
 - Provider
-
 - Clean Architecture
-
 - Dependency Manager
+- shared_preferences
 
 ## Getting Started
 
